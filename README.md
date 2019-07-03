@@ -1,0 +1,2 @@
+# FunctionSaveAndGet
+使用HashMap，在Activity或Fragment存储共享方法，并在另一个Activity或Fragment获得共享方法，实现简单数据源案例
